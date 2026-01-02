@@ -1,12 +1,11 @@
 # 💫 About Me:
 
-Hi there 👋
-
-Nice meeting you, I'm Arpan!
+Hi there!!👋
+Nice meeting you, I'm Arpan.🤓
 
 - 🔭 I’m currently a student.
-- 💬 Ask me about Web Development or Web3
-- ⚡ Fun fact: When I'm not coding, I'm probably reading Agatha Christie mysteries 🕵️‍♂️
+- 💬 Ask me about Web Development or Web3.
+- ⚡ Fun fact: When I'm not coding, I'm probably reading Agatha Christie mysteries.🕵️‍♂️
 
 ### My Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

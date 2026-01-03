@@ -4,7 +4,7 @@ Hi there!!👋🏻
 Nice meeting you, I'm Arpan.
 
 - I’m currently a student.🤓
-- Web3 Enthusiast.
+- Web3 Enthusiast.❣️
 - Chill × Code.🧋
 
 ## 💻 Tech Stack:

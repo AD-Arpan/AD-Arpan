@@ -1,4 +1,4 @@
-### About Me:
+## About Me:
 
 Hi there!!👋🏻
 Nice meeting you, I'm Arpan.
@@ -7,7 +7,7 @@ Nice meeting you, I'm Arpan.
 - Web3 Enthusiast.💻
 - Chill × Code.🧋
 
-### My Tech Stack:
+## 🔗 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,6 +17,6 @@ Nice meeting you, I'm Arpan.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🌐 Socials:
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-das-21936b32a)

@@ -6,8 +6,9 @@ Nice meeting you, I'm Arpan.
 - I’m currently a student.🤓
 - Web3 Enthusiast.💻
 - Chill × Code.🧋
+⚡ Fun fact: When I'm not coding, I'm probably reading Agatha Christie mysteries 🕵️‍♂️
 
---
+<br />
 
 ### My Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

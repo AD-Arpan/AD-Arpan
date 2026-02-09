@@ -1,7 +1,7 @@
 ## 💫 About Me:
 
 Hi there!!👋🏻
-Nice meeting you,Myself Arpan.
+Nice meeting you, Myself Arpan.
 
 - I’m currently a student.🤓
 - Web3 Enthusiast.

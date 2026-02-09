@@ -1,11 +1,10 @@
 ## 💫 About Me:
 
 Hi there!!👋🏻
-Nice meeting you, I'm Arpan.
+Nice meeting you,Myself Arpan.
 
 - I’m currently a student.🤓
-- Web3 Enthusiast.❣️
-- Chill × Code.🧋
+- Web3 Enthusiast.
 
 ## 💻 Tech Stack:
 
